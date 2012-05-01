@@ -1,0 +1,14 @@
+/*  
+Theme Name: John Galt Theme
+Theme URI: http://learnfinancialplanning.com/john-galt-theme/
+Description: Custom Grid Based Theme developed by Sprout Venture. 
+Version: 1.5
+Author: Financial Planning
+Author URI: http://learnfinancialplanning.com/
+Tags: Old Fashioned, three column, fixed width, graphics, right sidebar, left sidebar, widget ready, plugin supported, seo, valid XHTML, valid CSS, w3c, brown, white, off white, financial, professional, light, grid css, blueprint css, ad ready, customize
+.
+Released under the <a href="http://www.opensource.org/licenses/gpl-license.php">GPL</a>.
+.
+*/
+@import url("stylesheets/grid.css");
+@import url("stylesheets/main.css");
