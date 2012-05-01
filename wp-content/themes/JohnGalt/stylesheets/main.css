@@ -3,7 +3,9 @@ img{outline:none;}
 .clear{clear:both;height:0px;background:none !important;color:none !important;border:none !important;}
 .left{float:left;}
 .right{float:right;}
-body{margin:0;background:url("../images/woodbg-dark.jpg") repeat scroll center top #4d4334;font-family:arial,helvetica,sans-serif;font-size:100%;}
+body{margin:0;
+background: red;
+font-family:arial,helvetica,sans-serif;font-size:100%;}
 .wrap{background:#F2F1E5;padding-bottom:29px;min-height:200px;border-left:1px solid #000;border-right:1px solid #000;}
 a{color:#9b0808;text-decoration:none;}
 h1 a{color:#efefef;text-decoration:none;font-size:1.4em;}
