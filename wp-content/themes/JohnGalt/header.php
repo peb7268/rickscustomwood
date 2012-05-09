@@ -1,5 +1,9 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+
+<!--[if lt IE 7]>      <html class="ie6"> <![endif]-->
+<!--[if IE 7]>         <html class="ie7"> <![endif]-->
+<!--[if IE 8]>         <html class="ie8"> <![endif]-->
+<!--[if gt IE 8]><!--> <html>         <!--<![endif]-->
 
 <head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="X-UA-Compatible" content="IE=7">
@@ -30,8 +34,7 @@
 <div class="container">
 	<div class="column span-24 first last header">
 		<div class="column span-20 title">
-			<h1><a href="<?php echo get_settings('home'); ?>/"><?php bloginfo('name'); ?></a></h1>
-			<div class="description"><?php bloginfo('description'); ?></div>
+			<h1 id="logo"><a href="<?php bloginfo('stylesheet_directory') ?>" title="<?php bloginfo('name'); ?>"><img src="<?php bloginfo('stylesheet_directory') ?>/images/logo.png" alt="Ricks Custom Wood" /></a></h1>
 		</div>
 	<div class="column span-24 last">
 		<div id="nav">
